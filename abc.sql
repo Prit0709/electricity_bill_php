@@ -1,3 +1,6 @@
+
+USE electricity;
+
 CREATE TABLE Consumer (
     consumer_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
